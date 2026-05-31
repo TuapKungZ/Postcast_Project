@@ -1,0 +1,7 @@
+streamlit
+edge-tts
+requests
+google-generativeai
+beautifulsoup4
+python-dotenv
+moviepy
