@@ -1,5 +1,5 @@
 # 🌍 ReadCast Pro: Polyglot (Podcast Generator)
-
+Project ในรายวิชา 254485 Special Topics in Computer Science เพื่อเรียนรู้และสร้าง project โดยใช้ Ai
 ระบบสร้างรายการ Podcast สนุกๆ จากบทความข่าวภาษาอังกฤษหรือเนื้อความตามสั่งโดยอัตโนมัติ ขับเคลื่อนด้วยโมเดลภาษา **Google Gemini 2.5 Flash** และการสังเคราะห์เสียงเป็นธรรมชาติผ่าน **Edge TTS** พร้อมมิกซ์ดนตรีประกอบเป็นไฟล์เสียง MP3 ทันที!
 
 ---
